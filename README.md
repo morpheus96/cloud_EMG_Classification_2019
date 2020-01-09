@@ -4,7 +4,7 @@ Project created on the lecture Obliczenia inzynierskie w chmurze
 
 # Resources:
 
-http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code - GitHub integration with VS Code
+http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code - GitHub integration with VS Code \n
 https://docs.docker.com/toolbox/toolbox_install_windows/ - Install guide for "Docker Toolbox for Windows"
 https://docs.paramiko.org/en/stable/ - Paramiko docs (Python SSH package)
 https://phoenixnap.com/kb/how-to-ssh-into-docker-container - Manual SSH connection to docker container
